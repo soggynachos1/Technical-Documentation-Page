@@ -1,0 +1,39 @@
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+#main-doc {
+  position: relative;
+  width: 825px;
+  height: 40px;
+  text-align: center;
+  background-color: lightgray;
+  border: 4px solid green;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 40px;
+  font-size: 30px;
+}
+.logo {
+  width: 255px;
+  height: 55px;
+  margin: 20px;
+  background-color: green;
+}
+.main-section {
+  font-size: 22px;
+  height: 555px;
+  width: 300px;
+  background-color: #ffffff transparent;
+  position: relative;
+  padding: 30px;
+  text-align: center;
+}
+
+#beg_web_dev {
+  text-align: right;
+}
+
+
